@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "this is an boiler platte code for backend using mongodb ",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "nodemon index.js"
   },
